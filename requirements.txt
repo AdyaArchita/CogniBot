@@ -1,0 +1,12 @@
+langchain
+langgraph
+chromadb
+langchain-chroma
+langchain-community
+langchain-huggingface
+sentence-transformers
+pydantic
+python-dotenv>=1.1.0
+# If using Groq or OpenAI
+langchain-openai
+langchain-groq
